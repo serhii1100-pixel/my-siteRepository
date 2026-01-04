@@ -1,14 +1,3 @@
-# Исключаем системные и временные файлы Windows
-AppData/
-Thumbs.db
-.DS_Store
-
-# Исключаем среду разработки
 .vscode/
 .idea/
-
-# node_modules (если есть)
-node_modules/
-
-# Логи
-*.log
+Thumbs.db
